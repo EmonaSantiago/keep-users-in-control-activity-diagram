@@ -1,16 +1,12 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
-
-## User Story
-<!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
-
 ## Activity Diagram
 <!-- Toon de activity Diagram -->
+<img width="770" alt="Schermafbeelding 2022-04-18 om 21 28 57" src="https://user-images.githubusercontent.com/90447045/163865223-54cced0b-f1b0-4112-aaf1-0c0a345c4e16.png">
 
-## Uitleg pseudo-code 
-<!-- Leg de pseudo-code in de control fow uit -->
+## Feedback
+
+<img width="620" alt="Schermafbeelding 2022-04-18 om 21 31 03" src="https://user-images.githubusercontent.com/90447045/163865345-233b4c23-1605-401e-b4ea-4772df35d6a0.png">
 
 
 ## Licentie
